@@ -9,9 +9,9 @@ The OOP approach was the original intention for the project but during my Capsto
 Whichever approach you would like to test, download the appropriate folder of code.  Each folder will have the appropriate README for running and working with.
 
 ## Project Requirements
-MUST HAVE - basic requirements and purpose of the system
-COULD HAVE - a part of project requirements but does not need to be implemented in MVP
-WOULD HAVE - out of scope of project, but still viable functions to implement
+MUST HAVE - basic requirements and purpose of the system  
+COULD HAVE - a part of project requirements but does not need to be implemented in MVP  
+WOULD HAVE - out of scope of project, but still viable functions to implement  
 | # | User Story Title | User Story Description | Priority | 
 | - | ---------------- | ---------------------- | -------- |
 | 1 | Register for Class | Primary system function.  Will manipulate student and class records to hold rosters for each class, as well as course schedule for each student | Must Have |
