@@ -1,9 +1,7 @@
 # Student Records Management Web Dashboard
-| Current Target Release |	1.2 |
-| ---------------------- | ---- |
-| Status |	In Development |
-| Developer	| @morgval |
-| Credits	| [@CodAffection](https://github.com/CodAffection) for [Pure CRUD JS](https://github.com/CodAffection/Pure-JavaScript-CRUD-Operations-with-Html) which taught me more about JavaScript DOM methods than anything |
+| Current Target Release | Status | Developer	| Credits	|
+| ---------------------- | ------ | --------- | ------- |
+| 1.2 | In Development | @morgval | [@CodAffection](https://github.com/CodAffection) for [Pure CRUD JS](https://github.com/CodAffection/Pure-JavaScript-CRUD-Operations-with-Html) which taught me more about JavaScript DOM methods than anything |
 
 ## Project Synopsis
 The first attempt at the Student Records project used a functional approach rather than object oriented, as originally intended.  However, it should still perform the same as the original OOP version, but will not support as many user stories.  Only "must-have" priorities can be supported in this way without the program becoming more complex than possible for a single developer to sustain.  I may circle back further in my studies but am using the Functional approach, for now, to learn more about JavaScript ArrayLists and JSON dictionary compatibility.  
