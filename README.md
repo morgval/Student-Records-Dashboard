@@ -12,7 +12,7 @@ Whichever approach you would like to test, download the appropriate folder of co
 MUST HAVE - basic requirements and purpose of the system  
 COULD HAVE - a part of project requirements but does not need to be implemented in MVP  
 WOULD HAVE - out of scope of project, but still viable functions to implement  
-| # | User Story Title | User Story Description | Priority | 
+| # | Use Case Title | Description | Priority | 
 | - | ---------------- | ---------------------- | -------- |
 | 1 | Register for Class | Primary system function.  Will manipulate student and class records to hold rosters for each class, as well as course schedule for each student | Must Have |
 | 2 | Student Verification | Will be triggered by Register for Class to verify the student has the minimum GPA and course requirements | Must Have |
